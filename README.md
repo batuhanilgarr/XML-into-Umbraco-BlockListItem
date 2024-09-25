@@ -1,1 +1,44 @@
-# XML-into-Umbraco-BlockListItem
+# WarrantyWeb
+
+WarrantyWeb is an application developed to load data from XML files into the Umbraco Content Management System (CMS).
+
+## Features
+
+- Load content from XML files
+- Integration with Umbraco CMS
+- Create and update content
+
+## Requirements
+
+- .NET 6.0 or higher
+- Umbraco CMS
+- Newtonsoft.Json library
+
+## Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/your_username/WarrantyWeb.git
+   cd WarrantyWeb
+   ```
+
+2. **Install Dependencies**:
+
+   ```bash
+   dotnet restore
+   ```
+
+3. **Run the Application**:
+
+   ```bash
+   dotnet run
+   ```
+
+## Usage
+
+Follow the instructions in the code to load your XML file into Umbraco.
+
+## License
+
+This project is licensed under the MIT License.
